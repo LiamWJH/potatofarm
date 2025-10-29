@@ -1,0 +1,6 @@
+const potatobtn = document.getElementById("potatoseed")
+const sweetpotatobtn = document.getElementById("sweetpotatoseed")
+const goldenpotatobtn = document.getElementById("goldenpotatoseed")
+const workerbtn = document.getElementById("potatoworker")
+const lotterybtn = document.getElementById("lottery")
+const landbtn = document.getElementById("land")
